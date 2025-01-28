@@ -13,7 +13,7 @@ public class Main {
         socialMedia.findMutualFriends(101,202);
         socialMedia.removeFriendConnection(303,101);
         socialMedia.displayAllUsers();
-     
+
 
     }
 }
