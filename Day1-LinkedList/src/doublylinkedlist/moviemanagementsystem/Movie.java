@@ -1,4 +1,4 @@
-package singlylinkedlist.moviemanagementsystem;
+package doublylinkedlist.moviemanagementsystem;
 
 class Movie {
     String title;
